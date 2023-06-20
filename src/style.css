@@ -1,0 +1,26 @@
+#contain{
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.password{
+    margin-left: -28rem;
+}
+.naam{
+    margin-left: -29rem;
+}
+.email{
+    margin-left: -29rem;
+}
+.address{
+    margin-left: -28.4rem;
+}
+.phone{
+    margin-left: -29rem;
+}
+
+#inner{
+    padding: 0.7rem;
+}
